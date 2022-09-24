@@ -1,3 +1,7 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 .text-bgc {
   background-color: rgba(29, 29, 29, 0.7);
 }
